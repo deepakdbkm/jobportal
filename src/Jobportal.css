@@ -1,0 +1,22 @@
+body {
+    background-color: #b6c949;
+    color: rgb(202, 99, 73);
+    padding: 40px;
+    font-family: Sans-Serif;
+    
+  }
+ 
+ .h1{
+    background-color:  #000;
+ }
+ .head {
+    color: rgba(253, 246, 246, 0.904);
+    background-color: rgb(138, 54, 54);
+    padding: 10px;
+    font-family: Sans-Serif;
+    text-align:center;
+    margin-top: 1px;
+    margin-bottom: 100px;
+  }
+
+
